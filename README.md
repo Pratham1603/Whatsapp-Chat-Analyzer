@@ -1,7 +1,6 @@
+# WhatsApp Chat Analyzer
 
 ---
-
-# WhatsApp Chat Analyzer
 
 ## Interactive Data Analysis & Visualization Web Application
 

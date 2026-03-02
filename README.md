@@ -141,21 +141,24 @@ streamlit run app.py
 
 ## 🔗 Important Links
 
-🚀 **Live Streamlit Application**
-Access the deployed app here:
-https://whatsapp-chat-analyzer-by-pratham1603.streamlit.app/
+### 🚀 Live Streamlit Application
 
-📖 **Medium Blog (Detailed Project Explanation)**
+Access the deployed app here:
+[https://whatsapp-chat-analyzer-by-pratham1603.streamlit.app/](https://whatsapp-chat-analyzer-by-pratham1603.streamlit.app/)
+
+### 📖 Medium Blog (Detailed Project Explanation)
+
 Read the full case study here:
 [Add Medium Blog Link Here]
 
-📊 **Project Presentation (PPT Slides)**
+### 📊 Project Presentation (PPT Slides)
+
 View the presentation slides here:
 [Add Presentation Link Here]
 
-🎥 **YouTube Walkthrough (Application Demo & Explanation)**
+### 🎥 YouTube Walkthrough (Application Demo & Explanation)
+
 Watch the full project demo here:
 [Add YouTube Demo Link Here]
-
 
 ---

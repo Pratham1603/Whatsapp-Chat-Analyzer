@@ -1,6 +1,3 @@
-Perfect. We’ll keep the same **professional structure**, but this time focused completely on **data analysis + visualization using Python & Streamlit**, not business intelligence storytelling.
-
-Here’s your **production-level README** for the WhatsApp Chat Analyzer:
 
 ---
 
@@ -146,7 +143,7 @@ streamlit run app.py
 
 🚀 **Live Streamlit Application**
 Access the deployed app here:
-[Add Streamlit Deployment Link Here]
+https://whatsapp-chat-analyzer-by-pratham1603.streamlit.app/
 
 📖 **Medium Blog (Detailed Project Explanation)**
 Read the full case study here:

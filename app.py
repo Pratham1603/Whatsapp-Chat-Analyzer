@@ -3,6 +3,19 @@ import preprocessor, helper
 import matplotlib.pyplot as plt
 import seaborn as sns
 
+# ---------------- Centered Title ----------------
+st.markdown(
+    "<h1 style='text-align: center;'>📊 WhatsApp Chat Analyzer</h1>",
+    unsafe_allow_html=True
+)
+
+st.markdown("---")
+
+# ---------------- Instructions ----------------
+st.info(
+    "📂 To use this app: Open the WhatsApp chat → Tap the three dots (⋮) → Select 'More' → Click 'Export Chat' → Choose 'Without Media' and upload the .txt file here."
+)
+
 # ---------------- Sidebar ----------------
 st.sidebar.title('📊 WhatsApp Chat Analyzer')  # modern emoji touch
 st.sidebar.markdown("Upload your exported WhatsApp chat to start analysis.")

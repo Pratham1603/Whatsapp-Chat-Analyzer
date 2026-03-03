@@ -3,7 +3,7 @@
 ---
 
 ## Interactive Data Analysis & Visualization Web Application
-<h3 align="center">Interactive Data Analysis & Visualization Web Application</h3>
+<h2 align="center">Interactive Data Analysis & Visualization Web Application</h2>
 
 ---
 

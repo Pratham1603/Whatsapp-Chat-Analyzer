@@ -148,7 +148,7 @@ Access the deployed app here:
 ### 📖 Medium Blog (Detailed Project Explanation)
 
 Read the full case study here:
-[Add Medium Blog Link Here]
+[[\\[Add Medium Blog Link Here\\]](https://medium.com/@prathamharer1603/turning-whatsapp-chats-into-meaningful-insights-whatsapp-chat-analyzer)](https://medium.com/@prathamharer1603/turning-whatsapp-chats-into-meaningful-insights-whatsapp-chat-analyzer-b1222d7e8021)
 
 ### 📊 Project Presentation (PPT Slides)
 

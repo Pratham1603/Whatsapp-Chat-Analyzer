@@ -2,8 +2,6 @@
   <img src="images/Untitled project (3).jpg" alt="WhatsApp Chat Analyzer" width="1000"/>
 </p>
 
-<h1 align="center">WhatsApp Chat Analyzer</h1>
-
 ---
 
 <h2 align="center">Interactive Data Analysis & Visualization Web Application</h2>

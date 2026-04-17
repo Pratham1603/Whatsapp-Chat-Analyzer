@@ -1,4 +1,4 @@
-![header](images/logo.png)
+![header](images/logo.jpg)
 
 <h1 align="center">WhatsApp Chat Analyzer</h1>
 

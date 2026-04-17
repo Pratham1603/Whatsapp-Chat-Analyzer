@@ -4,7 +4,7 @@
 
 ---
 
-<h4 align="center">Interactive Data Analysis & Visualization Web Application</h4>
+<h3 align="center">Interactive Data Analysis & Visualization Web Application</h3>
 
 ---
 

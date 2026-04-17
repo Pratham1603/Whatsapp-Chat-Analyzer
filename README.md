@@ -1,9 +1,10 @@
-![header](images/logo.jpg)
+<p align="center">
+  <img src="images/logo.jpg" alt="WhatsApp Chat Analyzer" width="200"/>
+</p>
 
 <h1 align="center">WhatsApp Chat Analyzer</h1>
 
 ---
-
 
 <h2 align="center">Interactive Data Analysis & Visualization Web Application</h2>
 
